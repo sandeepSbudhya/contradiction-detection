@@ -1,0 +1,8 @@
+/dist
+/src/contradiction/contradiction.egg-info
+MANIFEST.in
+Pipfile
+Pipfile.lock
+README.md
+LICENSE
+.gitignore
