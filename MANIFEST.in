@@ -1,0 +1,3 @@
+recursive-include src/contradiction/finetunedbertbinary/models *
+recursive-include src/contradiction/finetunedbertmnli/models *
+exclude src/contradiction app

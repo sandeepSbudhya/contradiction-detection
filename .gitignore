@@ -1,0 +1,6 @@
+**pycache*
+**/*.pyc
+/dist
+/src/contradiction/app.py
+/src/contradiction/finetunedbertbinary/models/*
+/src/contradiction/finetunedbertmnli/models/*
